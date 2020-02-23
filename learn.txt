@@ -2,3 +2,5 @@
 
 使用命令git add <file>，注意，可反复多次使用，添加多个文件；
 使用命令git commit -m <message>，完成。
+git status 掌握工作区状态，查看是否有文件被修改
+git diff 查看修改内容
