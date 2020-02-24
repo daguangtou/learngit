@@ -4,3 +4,8 @@
 使用命令git commit -m <message>，完成。
 git status 掌握工作区状态，查看是否有文件被修改
 git diff 查看修改内容
+git reset --hard commit_id 设置版本git reset --hard HEAD^ 设置为前版本
+git log 获取提交版本
+git reflog 获取版本操作历史
+git checkout -- <file> 清除工作区的修改
+git rm <file>删除。
